@@ -1,0 +1,14 @@
+{
+    "name": "alex/habr",
+    "description": "Habr",
+    "type": "project",
+    "license": "non",
+    "autoload": {
+        "psr-4": {
+            "Alex\\Habr\\": "src/"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.20"
+    }
+}
